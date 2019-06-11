@@ -1,0 +1,2 @@
+### Hands-On Machine Learning
+This is playground following the book [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B06XNKV5TS)
